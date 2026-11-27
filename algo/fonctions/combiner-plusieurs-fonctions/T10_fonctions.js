@@ -24,7 +24,6 @@ function trouverMaximum(tableau){
 }
 
 let notes = [15,12,18,11];
-let Somme = calculerSomme(notes);
 let moyenne =calculerMoyenne(notes);
 let max = trouverMaximum(notes);
 
